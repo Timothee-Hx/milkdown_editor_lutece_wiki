@@ -1,0 +1,10 @@
+{
+  "extends": "@type-config/strict",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
